@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/deploy-v3",
-  "version": "1.0.4",
+  "name": "@srokman/uniswap-deploy-v3",
+  "version": "1.0.3",
   "description": "Deploy Uniswap V3 smart contracts",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -23,7 +23,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/deploy-v3.git"
+    "url": "git+https://github.com/syafiqrokman-tencent/deploy-v3.git"
+    
   },
   "author": {
     "email": "contact@uniswap.org",
